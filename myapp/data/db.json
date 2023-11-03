@@ -1,0 +1,7 @@
+{
+    "blogs" :[
+        { "id": 1, "auteur": "rida", "age": 21 },
+      { "id": 2, "auteur": "fatima", "age": 42 },
+      { "id": 3, "auteur": "walid", "age": 16 }
+    ]
+}
